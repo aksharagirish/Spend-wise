@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise – Smart Expense Tracker",
+  "description": "A modern, intelligent personal finance and expense tracking application with monthly analytics, category budgets, and automatic balance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
